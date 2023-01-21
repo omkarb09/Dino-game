@@ -18,4 +18,5 @@ Steps to play:
 Gesture recognition model used was taken from the following project, do check out the article and git repo for more info: 
 
 https://towardsdatascience.com/tutorial-using-deep-learning-and-cnns-to-make-a-hand-gesture-recognition-model-371770b63a51
+
 https://github.com/filipefborba/HandRecognition
